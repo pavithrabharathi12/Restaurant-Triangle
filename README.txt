@@ -1,5 +1,9 @@
 Tools Required  :
-Visual Studio 2015/2019 which runs the c#,Windows Form Application,and helps in Api call
+Visual Studio 2015/2019 which runs the c#,Windows Form Application,and helps in Api call.
+
+Required Packages: 
+      1.  Gmap.Net.Windows
+      2.  Microsoft.AspNet.WebApi.Client
 
 Note: # Zomato Api Key is already included in the ZomatoInfo.cs file.
       # Home location/Starting point : can be your current latitude and longitude from the google map.
