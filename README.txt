@@ -20,6 +20,6 @@ Instructions:
       6.  Button Clear , Clears the recent action in map and also the latitude and longitude in the textbox in form.
       7.  By Mousehover the final marker locations, details of restaurant name & location will be shown. 
       
-      #Task 2
-      1. Load Task2 button performs task 2.
-        To perform, follow task 1 instructions.
+      
+        
+***** The Following Restaurant-Triangle repository consists of Code file for the Corresponding actions ****
