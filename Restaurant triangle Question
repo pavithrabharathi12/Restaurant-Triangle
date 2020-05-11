@@ -1,4 +1,4 @@
-Restaurant triangle
+Restaurant triangle using web api
 
 Charlie Brown is at home, getting hungry and bored at the same time. He ordered his food online, but the wait for the delivery guy seems to be excruciating. With his hunger growing by the minute, he decides to write some code to take his mind oﬀ the far oﬀ food. 
 Here is what he came up with. He decides to ﬁnd the 10 restaurants closest to his home. 
@@ -18,3 +18,8 @@ Display the following
 • Time taken to walk the above triangle if standard walking speed is 5.0 (km/h)
 
 NOTE: The walk must start at point A and end at Point A
+
+ Restaurant API 
+ • Zomato API 
+ • Google Maps Places API
+
